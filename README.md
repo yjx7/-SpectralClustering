@@ -43,5 +43,5 @@ labels=SpectralClustering(affinity='nearest_neighbors',n_clusters=20, n_neighbor
 再把图画出来，完美解决类似于10号和15号坐标分成一类的问题。结果如下图
 
 
-
+博客：http://www.cnblogs.com/jachin01/p/7488937.html
 
